@@ -1,0 +1,15 @@
+Echo-1 : RJ UT EU CC -MO -JT -M1 -AL -NI
+Echo-2 : AL DP MO -NI -CJ -ND
+Echo-3 : AL G4 IE JT NI -DP -AE -CC
+Echo-4 : CC IE AE X7 -AL -UT -JT -Y7
+Helicon-1 : AL G4 UT -AE -M1 -IE
+Helicon-2 : CJ G4 Q1 Y7 M1 -EU
+Helicon-3 : M1 AL V3 IE -DP
+Io-1 : MO RJ AL AE Q1 X7 -M1 -CJ -ND
+Io-2 : NI M1 EU -ND
+Io-3 : MO NI UF EU -UT
+Ovid-1 : Y7 X7 UF CC
+Ovid-2 : MO G4 DP UT CJ -ND
+Ovid-3 : CJ NI UT M1 -AL -DP
+Solis-1 : AE NI JT ND UT RJ
+Solis-2 : X7 Q1 M1 -EU -UF
